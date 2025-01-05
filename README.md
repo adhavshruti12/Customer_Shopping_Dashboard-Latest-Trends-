@@ -35,7 +35,7 @@ This project uses transactional data to uncover patterns in retail purchasing. T
 
 - `Customer_Shopping_Dashboard.pbix`: The Power BI file containing the dashboard.
 - `shopping_trends.csv`: The dataset used for analysis (if license permits sharing).
-- `Snapshot_of_dashboard.png`: Folder containing images of the dashboard.
+- `Screenshots/`: Folder containing images of the dashboard.
 
 ## How to Use
 
