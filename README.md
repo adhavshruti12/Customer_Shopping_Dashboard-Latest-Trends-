@@ -56,8 +56,6 @@ This project uses transactional data to uncover patterns in retail purchasing. T
 ### Dashboard Overview
 ![Dashboard Screenshot](Customer_Shopping_Dashboard/Snapshot_of_dashboard.png)
 
-### Seasonal Trends
-![Seasonal Trends](Screenshots/seasonal_trends.png)
 
 ## Future Enhancements
 
